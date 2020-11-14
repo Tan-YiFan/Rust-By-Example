@@ -1,1 +1,10 @@
 /.idea/
+
+
+#Added by cargo
+
+/target
+Cargo.lock
+/src/lib.rs
+/src/Rust01_HelloWorld/mod.rs
+/Cargo.toml
