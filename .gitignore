@@ -2,9 +2,9 @@
 
 
 #Added by cargo
-
+*
+!*.rs
+!*.md
 /target
-Cargo.lock
 /src/lib.rs
-/src/Rust01_HelloWorld/mod.rs
-/Cargo.toml
+*/mod.rs
