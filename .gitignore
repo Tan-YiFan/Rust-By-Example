@@ -2,9 +2,10 @@
 
 
 #Added by cargo
-*
-!*.rs
+*src/*/*
+!src/*/*.rs
 !*.md
 /target
 /src/lib.rs
-*/mod.rs
+/src/*/mod.rs
+Cargo.*
