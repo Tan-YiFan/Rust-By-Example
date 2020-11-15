@@ -12,5 +12,5 @@ fn main() {
     mutable = 21;
 
     // mutable=true; error
-    let mutable = true; // ok
+    let mutable = true; // overwritten is ok
 }
