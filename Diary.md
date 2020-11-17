@@ -12,4 +12,9 @@
 ## 2020-11-16
 
 * Finish 3. CustonTypes
-* Learn recursive function calls 
+* Learn recursive function calls
+
+## 2020-11-17
+
+* Finish 4. Variable Bindings
+* Learn keyword mut 
