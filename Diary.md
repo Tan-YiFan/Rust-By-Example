@@ -18,3 +18,8 @@
 
 * Finish 4. Variable Bindings
 * Learn keyword mut 
+
+## 2020-11-18
+
+* Finish 5. Types
+* `std::mem::size_of_val(&x)` as `sizeof()`
