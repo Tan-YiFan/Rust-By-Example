@@ -27,3 +27,7 @@
 ## 2020-11-19
 
 * Finish 6. Conversion
+
+## 2020-11-20
+
+* Finish 7. Expression
