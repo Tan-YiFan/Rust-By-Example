@@ -23,3 +23,7 @@
 
 * Finish 5. Types
 * `std::mem::size_of_val(&x)` as `sizeof()`
+
+## 2020-11-19
+
+* Finish 6. Conversion
