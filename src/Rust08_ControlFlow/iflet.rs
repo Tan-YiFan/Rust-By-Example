@@ -31,4 +31,12 @@ fn main() {
         // The condition evaluated false. This branch is the default:
         println!("I don't like letters. Let's go with an emoticon :)!");
     }
+
+    // This enum purposely neither implements nor derives PartialEq.
+    // That is why comparing Foo::Bar == a fails below.
+    enum Foo {Bar}
+    let a = Foo::Bar;
+    if let Foo::Bar = a {
+        println!("a is foobar");
+    }
 }
