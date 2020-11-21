@@ -31,3 +31,9 @@
 ## 2020-11-20
 
 * Finish 7. Expression
+
+## 2020-11-21
+
+* Finish 8. Flow of Control
+* Learn to use `let` and bindings in conditions
+* Control flow in Rust is more complex than C
