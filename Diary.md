@@ -43,3 +43,8 @@
 * Learn 9. Functions
 * Not finished
 * The use of closure is novel to me
+
+## 2020-11-23
+
+* Learn 10. Modules
+* The hierarchy is similar to golang.
