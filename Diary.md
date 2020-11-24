@@ -48,3 +48,10 @@
 
 * Learn 10. Modules
 * The hierarchy is similar to golang.
+
+## 2020-11-24
+
+* Read 11. Crates
+* Read 12. Cargo
+* Read 13. cfg
+* These three chapters are mainly about libraries.
