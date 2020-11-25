@@ -42,4 +42,6 @@ fn main() {
     // println!("Area: {}", area(&_triangle));
     // ^ TODO: Try uncommenting these.
     // | Error: Does not implement either `Debug` or `HasArea`.
+
+    // bound can be empty
 }
