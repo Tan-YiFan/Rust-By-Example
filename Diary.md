@@ -55,3 +55,7 @@
 * Read 12. Cargo
 * Read 13. cfg
 * These three chapters are mainly about libraries.
+
+## 2020-11-25
+
+* Read 14. Generics, skipped phantom type
