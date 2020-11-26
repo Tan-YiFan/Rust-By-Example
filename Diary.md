@@ -59,3 +59,7 @@
 ## 2020-11-25
 
 * Read 14. Generics, skipped phantom type
+
+## 2020-11-26
+
+* Read 15. Macros
