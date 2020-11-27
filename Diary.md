@@ -63,3 +63,8 @@
 ## 2020-11-26
 
 * Read 17. Macros
+
+## 2020-11-27
+
+* Read 15. Scopping
+* Browsing the lifetime and do not write codes
