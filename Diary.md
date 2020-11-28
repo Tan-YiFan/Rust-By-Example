@@ -68,3 +68,8 @@
 
 * Read 15. Scopping
 * Browsing the lifetime and do not write codes
+
+## 2020-11-28
+
+* Read 16. Trait
+* Very powerful syntax
