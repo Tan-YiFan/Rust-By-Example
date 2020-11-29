@@ -73,3 +73,8 @@
 
 * Read 16. Trait
 * Very powerful syntax
+
+## 2020-11-29
+
+* Read 18. Error handling
+* `try!` replaced by `?`
