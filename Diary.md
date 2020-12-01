@@ -78,3 +78,13 @@
 
 * Read 18. Error handling
 * `try!` replaced by `?`
+
+## 2020-11-30
+
+* Read 19. Standard Library
+* Skipped option which is mentioned above
+
+## 2020-12-01
+
+* Read 21. Testing
+* Document testing is a brand-new thing
