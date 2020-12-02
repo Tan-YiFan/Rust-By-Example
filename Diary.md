@@ -88,3 +88,8 @@
 
 * Read 21. Testing
 * Document testing is a brand-new thing
+
+## 2020-12-02
+
+* Read 20. Std misc
+* Learn multithreading
